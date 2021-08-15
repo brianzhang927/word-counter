@@ -1,0 +1,17 @@
+#clr {
+  text-align: right;
+}
+
+.col-md-6 {
+  background-color: rgb(211, 211, 211, 0.6);
+  /* opacity: 0.7; */
+  border-radius: 25px;
+}
+
+#center {
+  text-align: center;
+}
+
+#panel {
+  height: 95vh;
+}
